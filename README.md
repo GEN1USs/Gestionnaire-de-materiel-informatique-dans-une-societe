@@ -1,1 +1,1 @@
-Gestionnaire-de-materiel-informatique-dans-une-societe Version 1 
+Gestionnaire-de-materiel-informatique-dans-une-societe 
